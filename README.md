@@ -14,4 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[Bash-learning](https://github.com/yrf105/Bash-learning)
+## 语言
+[🐚 Bash-learning](https://github.com/yrf105/Bash-learning)
+
+## 模式
+[design-patterns-learning](https://github.com/yrf105/design-patterns-learning)
+[aop-learning](https://github.com/yrf105/aop-learning)
