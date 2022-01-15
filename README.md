@@ -1,4 +1,4 @@
-### Hi there ![](./assets/hi.gif)
+### Hi there <img src="./assets/hi.gif" width="25px">
 
 <!--
 **yrf105/yrf105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
