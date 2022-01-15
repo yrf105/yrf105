@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - [🐚 Bash-learning](https://github.com/yrf105/Bash-learning)
 
 ## 模式
-- [design-patterns-learning](https://github.com/yrf105/design-patterns-learning)
-- [aop-learning](https://github.com/yrf105/aop-learning)
+- [🛠 design-patterns-learning](https://github.com/yrf105/design-patterns-learning)
+- [🌈 aop-learning](https://github.com/yrf105/aop-learning)
