@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 ## 模式
 - [🛠 design-patterns-learning](https://github.com/yrf105/design-patterns-learning)
 - [🌈 aop-learning](https://github.com/yrf105/aop-learning)
+
+## 日记
+- [📝 MY-Journal-2022](https://github.com/yrf105/MY-Journal-2022)
