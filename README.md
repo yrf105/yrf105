@@ -23,3 +23,10 @@ Here are some ideas to get you started:
 
 ## 日记
 - [📝 MY-Journal-2022](https://github.com/yrf105/MY-Journal-2022)
+
+## LeetCode
+- [🖌️ LeetCode](https://github.com/yrf105/LeetCode)
+
+## 笔记
+- [🧑‍🏫 ClassNotes](https://github.com/yrf105/ClassNotes)
+- [📜 paper-reading](https://github.com/yrf105/paper-reading)
