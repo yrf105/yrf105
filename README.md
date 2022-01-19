@@ -30,3 +30,7 @@ Here are some ideas to get you started:
 ## 笔记
 - [🧑‍🏫 ClassNotes](https://github.com/yrf105/ClassNotes)
 - [📜 paper-reading](https://github.com/yrf105/paper-reading)
+
+| [Notes](https://github.com/yrf105/Notes) | [Engineering-Interviews](https://github.com/yrf105/Engineering-Interviews) |
+| - | - |
+| | |
